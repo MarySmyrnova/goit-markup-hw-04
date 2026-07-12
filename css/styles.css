@@ -1,0 +1,13 @@
+/* Кольори:
+  рамка — #F57F17
+*/
+
+body {
+    font-family: sans-serif;
+}
+
+.card {
+    background-color: #FFF8E1;
+    border: 2px solid #F57F17;
+    /* задай padding, margin-bottom і border */
+}
